@@ -21,7 +21,9 @@ Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no g
 3)Espere até a hora programada
 
 Obs: Os códigos estão na pasta "src" que contêm
-
+AlarmClock.java //codigo principal, onde tem a public static void main(String args[])
+CaixaDeSom.java //codigo que contem a classe CaixaDeSom, na qual faz ter som no programa.
+Despertador.java //codigo que contem a classe Despertador.
 
 ## Tutorial GUI Swing Java
 O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do Java. link:https://www.youtube.com/watch?v=cYMruFKwqf0&index=10&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
