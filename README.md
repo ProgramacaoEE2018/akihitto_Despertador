@@ -5,7 +5,7 @@ Repositório para o projeto de um software de um despertador, Para fazer esse pr
 O projeto consiste na implementação de um software para despertar mais eficiente para me acordar no dia a dia.
 
 ## Função
-Esse despertador terá a função de toque em determinado horário.
+Esse despertador terá a função de toque em determinado horário que o usuário escolha.
 
 ## Motivação
 Eu tenho dificuldade em acordar cedo todos os dias de manhã para ir para o IME, logo, com esse despertador vou criar um mecanismo para me acordar com mais eficiência.
@@ -20,7 +20,8 @@ Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no g
 
 3)Espere até a hora programada
 
-Obs: Os códigos estão na pasta "rsc"
+Obs: Os códigos estão na pasta "src" que contêm
+
 
 ## Tutorial GUI Swing Java
 O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do Java. link:https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
