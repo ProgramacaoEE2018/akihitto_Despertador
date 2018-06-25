@@ -24,9 +24,7 @@ Obs: Os códigos estão na pasta "src" que contêm
 
 
 ## Tutorial GUI Swing Java
-O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do Java. link:https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
-
-![Tutorial GUI](tutorialGUI.JPG)
+O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do Java. link:https://www.youtube.com/watch?v=cYMruFKwqf0&index=10&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
 
 ## Esboço GUI
 ![Esboço GUI](Esboço GUI.JPG)
