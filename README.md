@@ -21,6 +21,7 @@ Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no g
 3)Espere até a hora programada
 
 Obs: Os códigos estão na pasta "src" que contêm
+
 AlarmClock.java //codigo principal, onde tem a public static void main(String args[])
 
 CaixaDeSom.java //codigo que contem a classe CaixaDeSom, na qual faz ter som no programa.
