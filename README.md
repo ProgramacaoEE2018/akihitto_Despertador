@@ -34,3 +34,7 @@ O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do 
 ![Tutorial Gui](tutorialGUI.JPG)
 ## Esboço GUI
 ![Esboço GUI](EsbocoGUI.JPG)
+## Fluxograma
+![Fluxograma](Fluxograma_Despertador.png)
+## Diagrama de Classes
+![Diagrama de Classes](Diagrama_de_classe.pdf)
