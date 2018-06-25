@@ -1,11 +1,14 @@
 # akihitto_Despertador
-Repositório para o projeto de um aplicativo para despertador com várias funcionalidades
+Repositório para o projeto de um software de um despertador, Para fazer esse projeto pensei em fazer um programa em Java.
 
-O objetivo do projeto é fazer um despertador mais eficiente para me acordar no dia a dia com mais funções que um simples despertador.
+## Conceito
+O projeto consiste na implementação de um software para despertar mais eficiente para me acordar no dia a dia.
 
-Esse despertador terá as funções de toque em determinado horário com a música escolhida, ligar a lanterna ao tocar o despertador, e ser capaz de reproduzir um video.
+## Função
+Esse despertador terá a função de toque em determinado horário.
 
-Para fazer esse projeto pensei em fazer um programa em Java.
+## Motivação
+Eu tenho dificuldade em acordar cedo todos os dias de manhã para ir para o IME, logo, com esse despertador vou criar um mecanismo para me acordar com mais eficiência.
 
 ## Utilizando o Programa:
 
