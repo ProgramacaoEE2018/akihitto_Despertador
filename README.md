@@ -37,4 +37,4 @@ O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do 
 ## Fluxograma
 ![Fluxograma](Fluxograma_Despertador.png)
 ## Diagrama de Classes
-![Diagrama de Classes](Diagrama_de_classe.JPG)
+![Diagrama de Classes](Diagrama_de_classe.PNG)
