@@ -14,7 +14,7 @@ Eu tenho dificuldade em acordar cedo todos os dias de manhã para ir para o IME,
 
 Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no google)
 
-1) Em "Projeto Despertador\ProjetoAlarme\dist" clique no arquivo ProjetoAlarme.jar
+1)Em "Projeto Despertador\ProjetoAlarme\dist" clique no arquivo ProjetoAlarme.jar
 
 2)Coloque a hora que quer ser acordado e clique em "Ligar"
 
@@ -22,7 +22,9 @@ Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no g
 
 Obs: Os códigos estão na pasta "src" que contêm
 AlarmClock.java //codigo principal, onde tem a public static void main(String args[])
+
 CaixaDeSom.java //codigo que contem a classe CaixaDeSom, na qual faz ter som no programa.
+
 Despertador.java //codigo que contem a classe Despertador.
 
 ## Tutorial GUI Swing Java
