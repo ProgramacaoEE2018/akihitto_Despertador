@@ -12,13 +12,21 @@ Eu tenho dificuldade em acordar cedo todos os dias de manhã para ir para o IME,
 
 ## Utilizando o Programa:
 
-Requisitos: ter o JRE do java para executar o arquivo(para baixa-lo procure no google)
+Requisitos: ter o JRE do java para executar o arquivo (para baixa-lo procure no google)
 
 1)Em "Projeto Despertador\ProjetoAlarme\dist" clique no arquivo ProjetoAlarme.jar
 
 2)Coloque a hora que quer ser acordado e clique em "Ligar"
 
 3)Espere até a hora programada
+
+###Instrução de Compilação
+
+1 Baixar o JDK
+
+2 Baixar a IDE mais conveniente (IDE utilizada, netbeans)
+
+3 Compilar o código clicando no botão verde (no caso do netbeans)
 
 Obs: Os códigos estão na pasta "src" que contêm
 
