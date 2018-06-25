@@ -33,4 +33,4 @@ O tutorial escolhido encontra-se no youtube e refere-se a interface gráfica do 
 
 ![Tutorial Gui](tutorialGUI.JPG)
 ## Esboço GUI
-![Esboço GUI](Esboço GUI.JPG)
+![Esboço GUI](EsbocoGUI.JPG)
