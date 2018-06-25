@@ -20,7 +20,7 @@ Requisitos: ter o JRE do java para executar o arquivo (para baixa-lo procure no 
 
 3)Espere até a hora programada
 
-###Instrução de Compilação
+### Instrução de Compilação
 
 1 Baixar o JDK
 
